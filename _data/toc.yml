@@ -1,0 +1,83 @@
+- title: Introduction (This Book)
+  url: /dod_sql_00a
+  not_numbered: true
+
+- title: Introduction (Blog Series)
+  url: /dod_sql_00b
+  not_numbered: true
+
+- title: "Part 1"
+  url: /dod_sql_01
+  not_numbered: true
+
+- title: "Part 2: Basic Tables"
+  url: /dod_sql_02
+  not_numbered: true
+
+- title: "Part 3: Basic Filters"
+  url: /dod_sql_03
+  not_numbered: true
+
+- title: "Part 4: Basic SELECTs"
+  url: /dod_sql_04
+  not_numbered: true
+
+- title: "Part 5: Basic Feature Engineering"
+  url: /dod_sql_05
+  not_numbered: true
+
+- title: "Part 6: More Feature Engineering"
+  url: /dod_sql_06
+  not_numbered: true
+
+- title: "Part 7: Basic Groups"
+  url: /dod_sql_07
+  not_numbered: true
+
+- title: "Part 8: More Groups"
+  url: /dod_sql_08
+  not_numbered: true
+
+- title: "Part 9: Basic Windows"
+  url: /dod_sql_09
+  not_numbered: true
+
+- title: "Part 10: Basic CTEs"
+  url: /dod_sql_10
+  not_numbered: true
+
+- title: "Part 11: More CTEs & Windows"
+  url: /dod_sql_11
+  not_numbered: true
+
+- title: "Part 12: SSMS Tips"
+  url: /dod_sql_12
+  not_numbered: true
+
+- title: "Part 13: Basic Dates"
+  url: /dod_sql_13
+  not_numbered: true
+
+- title: "Part 14: More Dates"
+  url: /dod_sql_14
+  not_numbered: true
+
+- title: "Part 15: Basic LEFT JOINs"
+  url: /dod_sql_15
+  not_numbered: true
+
+- title: "Part 16: Basic INNER JOINs"
+  url: /dod_sql_16
+  not_numbered: true
+
+- title: "Part 17: JOIN Filtering"
+  url: /dod_sql_17
+  not_numbered: true
+
+- title: "Part 18: Basic CASE WHEN"
+  url: /dod_sql_18
+  not_numbered: true
+
+- title: "Part 19: More CASE WHEN"
+  url: /dod_sql_19
+  not_numbered: true
