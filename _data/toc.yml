@@ -1,7 +1,3 @@
-- title: Introduction (This Book)
-  url: /dod_sql_00a
-  not_numbered: true
-
 - title: Introduction (Blog Series)
   url: /dod_sql_00b
   not_numbered: true
@@ -80,4 +76,8 @@
 
 - title: "Part 19: More CASE WHEN"
   url: /dod_sql_19
+  not_numbered: true
+
+- title: "Part 20: Basic Subqueries"
+  url: /dod_sql_20
   not_numbered: true
