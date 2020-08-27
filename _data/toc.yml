@@ -81,3 +81,7 @@
 - title: "Part 20: Basic Subqueries"
   url: /dod_sql_20
   not_numbered: true
+  
+- title: "Part 21: Correlated Subqueries"
+  url: /dod_sql_20
+  not_numbered: true
