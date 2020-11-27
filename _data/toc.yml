@@ -83,5 +83,9 @@
   not_numbered: true
   
 - title: "Part 21: Correlated Subqueries"
-  url: /dod_sql_20
+  url: /dod_sql_21
+  not_numbered: true
+
+- title: "Appendix: Date update"
+  url: /date_update_2020
   not_numbered: true
