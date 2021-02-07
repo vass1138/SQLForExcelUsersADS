@@ -1,3 +1,7 @@
+- title: Introduction (This Book)
+  url: /dod_sql_00a
+  not_numbered: true
+
 - title: Introduction (Blog Series)
   url: /dod_sql_00b
   not_numbered: true
